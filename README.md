@@ -20,7 +20,7 @@
 if you consider me as a good fit for what you are looking for, here are my contact details:
 
 📬 lema244@hotmail.com
-🔗 https://www.linkedin.com/in/luis-manjarrez/
+🔗 www.linkedin.com/in/luis-manjarrez/
 
 <!--
 **Lemanetwork/Lemanetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
