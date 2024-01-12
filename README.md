@@ -15,6 +15,7 @@
 - PostgreSQL
 - Sequelize
 - MongoDB
+- Mongoose
 - Jest
 
 if you consider me as a good fit for what you are looking for, here are my contact details:
