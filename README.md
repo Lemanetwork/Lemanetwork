@@ -11,12 +11,14 @@
 - HTML
 - CSS
 - Node.js
-- Express
+- Express.js
 - PostgreSQL
 - Sequelize
 - MongoDB
 - Mongoose
 - Jest
+- JWT
+- Joi
 
 🌍 https://ip-drivers.onrender.com
 
