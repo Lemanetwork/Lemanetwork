@@ -19,6 +19,7 @@
 - Jest
 - JWT
 - Joi
+- Swagger
 
 🌍 https://ip-drivers.onrender.com
 
