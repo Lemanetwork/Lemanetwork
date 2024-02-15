@@ -2,9 +2,9 @@
 
 🖥 I am skilled at giving specialized support to IT infrastructures and a variety of devices on different platforms like Windows, MacOS, and Linux.
 
-🐱‍🏍 One of my passions is helping others, and for that reason, I can happily say that I also have around 5 years of experience working and volunteering in humanitarian projects and education.
+🐱‍🏍 One of my passions is helping others, and for that reason, I can happily share that I served as a volunteer for 4 years in Africa, which means I have around 5 years of experience working and volunteering in humanitarian projects and education.
 
-👨‍💻 Currently I am focused on studying, creating projects, and working very hard on mastering my Full Stack Developer Skills:
+👨‍💻 Currently I am focused on creating projects, and working very hard on mastering my Full Stack Developer Skills:
 - JavaScript
 - React
 - Redux
