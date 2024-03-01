@@ -1,4 +1,4 @@
-👋 Hello, my name is Luis, I am a System Engineer/Full Stack Developer with over 14 years of experience working and managing technology projects.
+👋 Hello, my name is Luis, I am a trilingual (Spanish - English - French) System Engineer/Full Stack Developer with over 14 years of experience working and managing technology projects.
 
 🖥 I am skilled at giving specialized support to IT infrastructures and a variety of devices on different platforms like Windows, MacOS, and Linux.
 
