@@ -1,4 +1,4 @@
-👋 Hello, my name is Luis, I am a trilingual (Spanish - English - French) System Engineer/Full Stack Developer with over 14 years of experience working and managing technology projects.
+👋 Hello, my name is Luis, I am a trilingual (Spanish - English - French) System Engineer/Full Stack Developer with over 14 years of experience managing technology projects and developing innovative solutions.
 
 🖥 I am skilled at giving specialized support to IT infrastructures and a variety of devices on different platforms like Windows, MacOS, and Linux.
 
@@ -23,7 +23,7 @@
 
 🌍 https://ip-drivers.onrender.com
 
-if you consider me as a good fit for what you are looking for, here are my contact details:
+🚀 Ready to take your team to the next level? Connect with me!
 
 📬 lema244@hotmail.com
 🔗 www.linkedin.com/in/luis-manjarrez/
