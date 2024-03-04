@@ -4,7 +4,7 @@
 
 🐱‍🏍 One of my passions is helping others, and for that reason, I can happily share that I served as a volunteer for 4 years in Africa, which means I have around 5 years of experience working and volunteering in humanitarian projects and education.
 
-👨‍💻 Currently I am focused on creating projects, and working very hard on mastering my Full Stack Developer Skills:
+👨‍💻 Currently, I am studying Python, preparing myself for the AWS Cloud Practitioner certification, and working very hard to master my skills as a Full Stack Developer:
 - JavaScript
 - React
 - Redux
@@ -23,7 +23,7 @@
 
 🌍 https://ip-drivers.onrender.com
 
-🚀 Ready to take your team to the next level? Connect with me!
+🚀 Ready to take your team to the next level? Contact me!
 
 📬 lema244@hotmail.com
 🔗 www.linkedin.com/in/luis-manjarrez/
