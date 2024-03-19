@@ -10,12 +10,14 @@
 - Redux
 - HTML
 - CSS
+- Python
 - Node.js
 - Express.js
 - PostgreSQL
 - Sequelize
 - MongoDB
 - Mongoose
+- Docker
 - Jest
 - JWT
 - Joi
